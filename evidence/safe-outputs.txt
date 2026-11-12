@@ -174,3 +174,10 @@ c6581ab Build number converter and practise data representation
 ac31473 Complete computer basics and IPOS mission
 
 Pull Request status: Created via `gh pr create` (https://github.com/akshaidev/digital-detective-8087/pull/1), merged locally into `main`, and pushed to GitHub.
+
+=== Mission 7: Computer Networks ===
+$ ping -c 3 example.com (summary)
+3 packets transmitted, 3 packets received, 0.0% packet loss; round-trip min/avg/max/stddev = 62.499/85.634/115.363/22.080 ms
+
+$ nslookup example.com (resolved public IPs; local DNS server omitted)
+172.66.147.243, 104.20.23.154
