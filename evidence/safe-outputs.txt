@@ -1,0 +1,9 @@
+Privacy-safe terminal outputs and verification notes for The Digital Detective assignment.
+All personal usernames, hostnames, serial numbers, and local IP addresses have been redacted.
+
+=== Mission 0: Setup & Tool Versions ===
+$ python3 --version
+Python 3.13.2
+
+$ git --version
+git version 2.50.1 (Apple Git-155)
