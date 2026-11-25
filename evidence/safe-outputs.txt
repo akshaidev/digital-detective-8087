@@ -151,3 +151,7 @@ $ ps -eo pid,comm | head -n 6
 
 $ ls -l terminal-practice/notes.txt
 -rw-r--r--@ 1 [redacted]  staff  59 26 Nov 00:55 terminal-practice/notes.txt
+
+=== Mission 4: How Programs Run ===
+$ python3 mission-04-programs/hello.py
+Hello from Python
