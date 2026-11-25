@@ -7,3 +7,128 @@ Python 3.13.2
 
 $ git --version
 git version 2.50.1 (Apple Git-155)
+
+=== Mission 2: Terminal & File Management ===
+$ pwd
+/Users/[redacted]/Developer/NST/SnAI/Diwali_Project/digital-detective-8087
+
+$ ls -l | head -n 5
+total 8
+drwxr-xr-x@ 3 [redacted]  staff    96 26 Nov 00:55 evidence
+drwxr-xr-x@ 3 [redacted]  staff    96 26 Nov 00:55 mission-00-setup
+drwxr-xr-x@ 3 [redacted]  staff    96 26 Nov 00:55 mission-01-computer-basics
+drwxr-xr-x@ 3 [redacted]  staff    96 26 Nov 00:55 mission-02-terminal
+
+$ cat terminal-practice/notes.txt
+First line of practice notes.
+Second line appended safely.
+
+$ brew --version
+Homebrew 7.0.14
+
+$ brew list
+abseil
+ada-url
+aom
+brotli
+c-ares
+ca-certificates
+cairo
+chafa
+cowsay
+dav1d
+eza
+ffmpeg
+fmt
+fontconfig
+freetype
+fribidi
+fzf
+gdk-pixbuf
+gemini-cli
+gettext
+gh
+giflib
+glib
+graphite2
+harfbuzz
+hdrhistogram_c
+highway
+icu4c@78
+icu4c@79
+imath
+jpeg-turbo
+jpeg-xl
+json-c
+lame
+libavif
+libdatrie
+libdeflate
+libffi
+libgit2
+libnghttp2
+libnghttp3
+libngtcp2
+libpng
+librsvg
+libssh2
+libthai
+libtiff
+libunistring
+libusb
+libuv
+libvmaf
+libvpx
+libx11
+libxau
+libxcb
+libxdmcp
+libxext
+libxrender
+little-cms2
+llhttp
+lz4
+lzo
+merve
+mpg123
+mysql
+nbytes
+node
+openexr
+openjdk
+openjdk@21
+openjph
+openssl@3
+openssl@4
+opus
+pango
+pcre2
+pixman
+protobuf
+rclone
+readline
+scrcpy
+sdl2-compat
+sdl3
+simdjson
+simdutf
+sqlite
+svt-av1
+tokei
+tree
+uvwasi
+webp
+x264
+x265
+xorgproto
+xz
+zlib-ng-compat
+zstd
+android-platform-tools
+android-studio
+desktoppr
+docker-desktop
+font-jetbrains-mono-nerd-font
+font-meslo-lg-nerd-font
+ollama-app
+zerotier-one
