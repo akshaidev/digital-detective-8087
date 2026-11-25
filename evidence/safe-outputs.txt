@@ -155,3 +155,12 @@ $ ls -l terminal-practice/notes.txt
 === Mission 4: How Programs Run ===
 $ python3 mission-04-programs/hello.py
 Hello from Python
+
+=== Mission 5: Numbers & Data ===
+$ python3 conversion checks
+bin(13)='0b1101', bin(25)='0b11001', int('1010',2)=10, int('1101',2)=13, int('A',16)=10, int('1F',16)=31, hex(int('1111',2))='0xf'
+
+$ python3 mission-05-numbers-data/number_converter.py (inputs: 13, 25, 255)
+13 -> Binary: 0b1101, Hexadecimal: 0xd
+25 -> Binary: 0b11001, Hexadecimal: 0x19
+255 -> Binary: 0b11111111, Hexadecimal: 0xff
